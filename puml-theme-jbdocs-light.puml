@@ -1,0 +1,12 @@
+<style>
+element {
+  ebnf {
+    LineColor black
+    Fontcolor black
+    Backgroundcolor blanchedalmond
+    note {
+      Backgroundcolor blue
+    }
+  }
+}
+</style>
