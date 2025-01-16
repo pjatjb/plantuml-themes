@@ -1,4 +1,4 @@
-'' Light theme for PlantUML diagrams on docs.jitterbit.com
+'' Dark theme for PlantUML diagrams on docs.jitterbit.com
 <style>
 element {
   ebnf {
@@ -6,7 +6,7 @@ element {
     Fontcolor black
     Backgroundcolor blanchedalmond
     note {
-      Backgroundcolor blue
+      Backgroundcolor red
     }
   }
 }
